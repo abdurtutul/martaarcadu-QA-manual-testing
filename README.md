@@ -54,20 +54,17 @@ This repository documents the QA efforts for the **Martaarcadu** project, develo
 3. Use the [Figma preview](https://www.figma.com/proto/mSCzYLH5GdddWSbXysvvpF/martaarcadu-%7C%7C-Devsparrow-%7C%7C--FO11A4A362D87?node-id=23783-2540&p=f&t=WLe29Wmg1TCk8SyL-1) to guide UI expectations.
 4. Compare app behavior with the design and documentation.
 5. Log any bugs in the shared sheet or issue tracker.
-
 ---
 ## 🖼️ App Screenshots
 
 <div style="display: flex; overflow-x: auto; gap: 10px;">
   <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/Wlcome.png?raw=true" width="200" alt="Welcome" />
+   <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/home.png" width="200" alt="Welcome" />
   <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/profile.png?raw=true" width="200" alt="Profile 1" />
-  <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/profile.png?raw=true" width="200" alt="Profile 2" />
-  <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/identiry.png?raw=true" width="200" alt="Identity" />
   <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/message.png?raw=true" width="200" alt="Message" />
-  <img src="https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/screenshots/role.png?raw=true" width="200" alt="Role" />
 </div>
----
 
+---
 ## 👤 QA by
 
 **Md Abdur Rahaman Tutul**  
