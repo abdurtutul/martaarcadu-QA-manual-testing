@@ -19,7 +19,7 @@ This repository documents the QA efforts for the **Martaarcadu** project, develo
 |------|-------------|
 | 🔗 [Figma Design File](https://www.figma.com/design/mSCzYLH5GdddWSbXysvvpF/martaarcadu-%7C%7C-Devsparrow-%7C%7C--FO11A4A362D87?node-id=804-24216&p=f&t=xiANmYyxIR96wPnJ-0) | Full UI design reference |
 | 🔗 [Figma Prototype Preview](https://www.figma.com/proto/mSCzYLH5GdddWSbXysvvpF/martaarcadu-%7C%7C-Devsparrow-%7C%7C--FO11A4A362D87?node-id=23783-2540&p=f&t=WLe29Wmg1TCk8SyL-1&scaling=scale-down&content-scaling=fixed&page-id=15694%3A374&starting-point-node-id=23783%3A762) | Interactive prototype |
-| 📄 🔗 Click here to open the [Bug Report Sheet](https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536) *(recommended: Ctrl + Click to open in a new tab)*|
+| 📄[Bug Report Sheet](https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536) *(recommended: Ctrl + Click to open in a new tab)*|
 | 📦 APK – [apk file ](https://github.com/abdurtutul/martaarcadu-QA-manual-testing/blob/main/app-release.apk) | App build for Client Requirement |
 
 ---
@@ -30,7 +30,7 @@ This repository documents the QA efforts for the **Martaarcadu** project, develo
 - Executed **manual functional testing** across multiple modules.
 - Verified user interface and user experience consistency with Figma.
 - Performed **API testing** using Postman.
-- > 🔗 Click here to open the [Bug Report Sheet](https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536) *(recommended: Ctrl + Click to open in a new tab)*
+- 🔗 Click here to open the [Bug Report Sheet](https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536) *(recommended: Ctrl + Click to open in a new tab)*
 
 ---
 
