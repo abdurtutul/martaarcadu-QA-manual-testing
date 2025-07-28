@@ -30,8 +30,9 @@ This repository documents the QA efforts for the **Martaarcadu** project, develo
 - Executed **manual functional testing** across multiple modules.
 - Verified user interface and user experience consistency with Figma.
 - Performed **API testing** using Postman.
-- Detected bugs and inconsistencies, and reported them in the [bug sheet](https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536).
-- Collaborated with developers for debugging and regression testing.
+- <a href="https://docs.google.com/spreadsheets/d/14C6RpQTsvguC7ouuWNqBF4ZKVkqx8qP1-EV4dquON2c/edit?gid=359680536" target="_blank" rel="noopener noreferrer">
+  Bug Report Sheet
+</a>
 - Used tools like **Charles Proxy** and **ADB logcat** for advanced debugging.
 
 ---
